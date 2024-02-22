@@ -1,0 +1,22 @@
+h1 {color:rgb(41, 44, 233);}
+h2 {color:rgb(30, 31, 30); background-color: rgb(220, 243, 14);}
+h3 {color:chartreuse}
+section {
+  background-color: #c0bebe;
+  width: 200px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px; 
+  display: inline-block;
+}
+
+section img {
+  max-width: 100%; /* Set the maximum width to 100% of the container */
+  max-height:100%; /* Set the maximum height to 100% of the container */
+}
+.items {
+  background-color: #998a8a;
+  width: 180px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px; }
